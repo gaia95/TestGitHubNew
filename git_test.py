@@ -7,4 +7,4 @@ print(read_me)
 print("Jag är trött")
 print("När ska det här funka?")
 print("Kan jag hämta det här till datorn?")
-
+print("Ja detf funka!"
